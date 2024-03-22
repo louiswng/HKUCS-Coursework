@@ -18,11 +18,11 @@
 
    - CycleGAN
 
- 		You may use open source framework/implementation. But you have to **train the model by yourself and include the trained model in your submission**.
+   You may use open source framework/implementation. But you have to **train the model by yourself and include the trained model in your submission**.
 
-​		 You may also choose other deep learning 2D Image-Based graphics algorithms from published paper or your own project.
+​		You may also choose other deep learning 2D Image-Based graphics algorithms from published paper or your own project.
 
- 		The technical report should include detailed parameters showing the model convergence.
+​		The technical report should include detailed parameters showing the model convergence.
 
 ##### Requirements:
 
@@ -241,17 +241,17 @@ sh scripts/run_pie.sh
 
 source.png
 
-![source](PIE/img/source.png)
+![source](img/source.png)
 
 target.png
 
-![target](PIE/img/target.png)
+![target](img/target.png)
 
 mask.png
 
-![mask](PIE/img/mask.png)
+![mask](img/mask.png)
 
 result.png
 
-![result](PIE/img/result.png)
+![result](img/result.png)
 
